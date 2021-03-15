@@ -1,0 +1,2 @@
+# Machine-Intelligence-for-Rational-Drug-Discovery
+Machine intelligence has been applied in the drug  discovery field for decades. The development of deep  learning methods is driven by the accumulation of  massive amounts of biomedical data and the powerful  parallel computing capacity of GPUs. Deep learning  methods can deal with complex tasks based on large,  heterogeneous, and high-dimensional data sets without  the need for human input. These methods have been  shown to be useful in many practical and commercial  applications, including drug discovery studies.
